@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated HTML5 - Top Navigation.fltar" Date="2019-07-02T13:40:19.1222202-07:00">
+    <Messages>Publishing target HTML5 - Top Navigation...
+Connecting...
+Publish failed: Bad username or password provided 
+Saving log to "C:\Users\cledbetter\Documents\MY FLARE PROJECTS\Boop3\Output\cLedbetter\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="../../../Project/Destinations/FTP-UpperCase.fldes" Message="Publish failed: Bad username or password provided &#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5 - Top Navigation" ErrorID="140006" />
+    </Errors>
+</MadCapLog>

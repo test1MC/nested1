@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stylesheet xml:lang="en-us" html5TopEnabled="true">
+    <Styles>
+        <Style Name="Logo">
+            <Properties>
+                <Property Name="AltText">Logo</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Input">
+            <Properties>
+                <Property Name="Placeholder">Search</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Filter">
+            <Properties>
+                <Property Name="Label">All Files</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Submit Button">
+            <Properties>
+                <Property Name="Tooltip">Search</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Auto-complete Item: Description">
+            <Classes>
+                <StyleClass Name="Search History">
+                    <Properties>
+                        <Property Name="Label">Search</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Navigation Panel Item">
+            <Classes>
+                <StyleClass Name="Back">
+                    <Properties>
+                        <Property Name="Label">Back</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="Search Heading">
+            <Properties>
+                <Property Name="Format">Your search for {query} returned {total_results} result(s).</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Suggestion">
+            <Properties>
+                <Property Name="Format">Did you mean {suggestion}?</Property>
+            </Properties>
+        </Style>
+        <Style Name="Search Pagination Item">
+            <Classes>
+                <StyleClass Name="Previous">
+                    <Properties>
+                        <Property Name="Label">Previous</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Next">
+                    <Properties>
+                        <Property Name="Label">Next</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+    </Styles>
+</Stylesheet>

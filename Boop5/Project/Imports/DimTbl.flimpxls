@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="snippet"
+  PersistFirstRowAsHeader="true"
+  LimitRows="true"
+  LimitRowsCount="400"
+  SaveChartsAs="false"
+  SaveChartsAsType="Png"
+  ConvertEquations="false"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="false"
+  LastImport="2019-06-21T13:54:20.5941639-07:00">
+  <Files>
+    <Url
+      Source="../../../../Customer Projects/155073/DimTbl.xlsx"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/Customer Projects/155073/DimTbl.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet1.flsnp"
+      TimeStamp="6/21/2019 1:50:15 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet2.flsnp"
+      TimeStamp="6/21/2019 1:50:37 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet3.flsnp"
+      TimeStamp="6/21/2019 1:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet4.flsnp"
+      TimeStamp="6/21/2019 1:51:28 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet5.flsnp"
+      TimeStamp="6/21/2019 1:51:57 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet6.flsnp"
+      TimeStamp="6/21/2019 1:52:18 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet7.flsnp"
+      TimeStamp="6/21/2019 1:52:39 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet8.flsnp"
+      TimeStamp="6/21/2019 1:53:00 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet9.flsnp"
+      TimeStamp="6/21/2019 1:53:21 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/DimTbl/Sheet10.flsnp"
+      TimeStamp="6/21/2019 1:53:42 PM" />
+  </GeneratedFiles>
+</MsExcelImport>
